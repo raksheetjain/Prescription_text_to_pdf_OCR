@@ -2,12 +2,6 @@
 An OCR project to extract information about Patient and Prescription details from PDF Documents.
 Also this project involved creation of a backend server which will process data extraction requests.
 
-## Demo
-
-https://github.com/abhijeetk597/medical-data-extraction/assets/138308825/3d5d90e8-2858-4831-b1d5-97a3874f256c
-
-## [Click here to see project presentation](https://youtu.be/xh0livz2tSY)
-
 ## Overview
 1. [What is OCR?](#a1)
 2. [Introduction to Project](#a2)
